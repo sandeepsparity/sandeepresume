@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      Resume Template
+      Resume Template 1
     </div>);
 }
 
