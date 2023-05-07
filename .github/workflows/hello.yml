@@ -1,0 +1,15 @@
+name: Create Resume
+on:
+  push:
+   branches:
+    - main
+  pull_request:
+    branches:
+     - main
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Resume
+        run: echo "Create Resume"
