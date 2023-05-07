@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sandeepresume/static/css/main.5a7f59e9.css",
-    "main.js": "/sandeepresume/static/js/main.d74fbf65.js",
-    "static/js/787.6745fede.chunk.js": "/sandeepresume/static/js/787.6745fede.chunk.js",
-    "index.html": "/sandeepresume/index.html",
-    "main.5a7f59e9.css.map": "/sandeepresume/static/css/main.5a7f59e9.css.map",
-    "main.d74fbf65.js.map": "/sandeepresume/static/js/main.d74fbf65.js.map",
-    "787.6745fede.chunk.js.map": "/sandeepresume/static/js/787.6745fede.chunk.js.map"
+    "main.css": "/static/css/main.5a7f59e9.css",
+    "main.js": "/static/js/main.f74446a1.js",
+    "static/js/787.6745fede.chunk.js": "/static/js/787.6745fede.chunk.js",
+    "index.html": "/index.html",
+    "main.5a7f59e9.css.map": "/static/css/main.5a7f59e9.css.map",
+    "main.f74446a1.js.map": "/static/js/main.f74446a1.js.map",
+    "787.6745fede.chunk.js.map": "/static/js/787.6745fede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7f59e9.css",
-    "static/js/main.d74fbf65.js"
+    "static/js/main.f74446a1.js"
   ]
 }
